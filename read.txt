@@ -1,0 +1,12 @@
+context完成404
+服务器301重定向，Redirect只能做客户端重定向，react-router-config有服务端重定向的处理
+数据请求失败下的promise处理
+
+isomorphic-style-loader  服务端的style-loader
+
+seo（基于ssr）
+1,文章原创
+2，内部链接与网站相关，链接才有价值，别人给的外部链接多
+3，图片多，丰富
+
+prerender：不用ssr，但是可以支持seo
